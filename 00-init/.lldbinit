@@ -1,0 +1,14 @@
+settings set target.x86-disassembly-flavor intel
+settings set prompt (mbompoil)
+
+script print "\033[32m  ___       __________      ____   ___       __________      ____   _______     "
+script print "   MMb     dMM MMMMMMMb.   6MMMMb   MMb     dMM MMMMMMMb.   6MMMMb   MM MM      "
+script print "   MMM.   ,PMM MM     Mb  8P    Y8  MMM.   ,PMM MM     Mb  8P    Y8  MM MM      "
+script print "   M Mb   d MM MM     MM 6M      Mb M Mb   d MM MM     MM 6M      Mb MM MM\033[0m      "
+script print "\033[33m   M YM. ,P MM MM    .M9 MM      MM M YM. ,P MM MM     MM MM      MM MM MM    "
+script print "   M  Mb d  MM MMMMMMM(  MM      MM M  Mb d  MM MM    .M9 MM      MM MM MM      "
+script print "   M  YM.P  MM MM     Mb MM      MM M  YM.P  MM MMMMMMM9  MM      MM MM MM      "
+script print "   M   Mb   MM MM     MM MM      MM M   Mb   MM MM        MM      MM MM MM     \033[0m "
+script print " \033[31m  M   YP   MM MM     MM YM      M9 M   YP   MM MM        YM      M9 MM MM      "
+script print "   M        MM MM    .M9  8b    d8  M       MM MM         8b    d8   MM MM      "
+script print "  _M_      _MM_MMMMMMM9    YMMMM9  _M_      _MM_MM_         YMMMM9  _MM_MMMMMMM \033[0m"

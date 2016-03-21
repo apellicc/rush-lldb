@@ -1,0 +1,13 @@
+b 0x100000d46
+b 0x100000ef8
+b 0x100000f77
+breakpoint command add 2.1
+register write rsi `tab + count`
+continue
+DONE
+memory write 0x100000d66 0
+continue
+expr for (int j = 0; j < max; j++){tmp += min[j];}
+continue
+expr for (int j = 0; j < max; j++){(biggest < min[j]) ? biggest = min[j] : 0;}
+continue
